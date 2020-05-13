@@ -15,18 +15,14 @@ namespace Projet.API.Data
         {
                 base.OnModelCreating(builder);
 
+                /// Fluent API
                 builder.Entity<EtudiantClasse>().HasKey(k => new {k.ClasseId, k.UserId});
-
-                builder.Entity<UserRole>(
-                    userRole => {
-                        userRole.HasKey(k => new {k.UserId, k.RoleId});
-                    }
-
-                    
-
-                );
         }
 
+        public DbSet<Classe> classe {get; set;}
+        public DbSet<Publication> publication {get; set;}
+
+        public DbSet<EtudiantClasse> etudiantClasse {get; set;}       
 
     }
 }

@@ -41,3 +41,6 @@
 /Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
 /Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
 /Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/obj/Debug/netcoreapp3.1/Projet.API.csproj.CopyComplete
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll

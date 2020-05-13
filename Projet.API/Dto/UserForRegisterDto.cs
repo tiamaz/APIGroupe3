@@ -1,11 +1,18 @@
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using Microsoft.AspNetCore.Identity;
 
-namespace Projet.API.Model
+namespace Projet.API.Dto
 {
-    public class User : IdentityUser<int>
+    public class UserForRegisterDto
     {
+
+        [Required]
+        public string UserName { get; set; }
+
+        [Required]
+        public string Password {get; set;}
+
+        [Required]
+        public string Email { get; set; }
         [Required]
         public string Nom { get; set; }
         [Required]
@@ -14,9 +21,5 @@ namespace Projet.API.Model
         public string Ville { get; set; }
         [Required]
         public string Status { get; set; }
-
-        public ICollection<Classe> classe { get; set; }
-        public ICollection<EtudiantClasse> etudiantClasse { get; set; }
-
     }
 }
