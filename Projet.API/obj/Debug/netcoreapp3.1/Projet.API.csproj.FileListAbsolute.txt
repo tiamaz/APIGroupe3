@@ -44,3 +44,10 @@
 /Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
 /Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/tiamaz/Documents/EMSI/Matières/Développement Web/Projets/APIGroupe3/Projet.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
